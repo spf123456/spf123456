@@ -43,7 +43,7 @@
                 <version>2.2</version>
                 <configuration>
                     <port>8081</port>
-                    <path>/test09</path>
+                    <path>/</path>
                 </configuration>
             </plugin>
         </plugins>
